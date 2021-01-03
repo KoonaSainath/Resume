@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+}
+.name{
+    color:white;
+}
+.profession{
+    color:white;
+}
+.title{
+    background-color: olivedrab;
+    height:200px;
+    padding:20px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height:200px;
+}
+
+
+
