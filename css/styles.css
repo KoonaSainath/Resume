@@ -25,10 +25,11 @@ h3{
     padding-top: 100px;
 }   
 .top-container{
-    background-image: url("scenary.png");
+    background-image: url("mountain.png");
     background-repeat: no-repeat;
     width: 100%;
     height: 100%;
+    margin: auto;
     height: 1000px;
     background-size: 2000px;
     background-position: center;
